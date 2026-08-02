@@ -2,6 +2,11 @@
 
 An AI-powered Medical Chatbot built using **Streamlit**, **LangChain**, **FAISS**, **Hugging Face Embeddings**, and **Groq LLM**. The chatbot answers medical questions based on a custom medical knowledge base using Retrieval-Augmented Generation (RAG).
 
+## 🔗 Live Demo
+
+- **🌐 Streamlit App:** https://medical-ai-chatbot-dwtkryttogysy3tqinncv6.streamlit.app/
+- **💻 GitHub Repository:** https://github.com/ABHISHEK830SHARMA/Medical-AI-Chatbot
+
 ---
 
 ## 🚀 Features
